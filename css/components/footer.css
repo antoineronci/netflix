@@ -1,0 +1,14 @@
+.footer{
+  border-bottom: none;
+  padding: 40px 240px 0px;
+  color:rgb(114, 114, 114);
+  font-size:12.5px;
+  text-align: start;
+  line-height:30px;
+}
+
+.footer h3{
+  color:rgb(114, 114, 114)
+  font-size:14px;
+}
+

@@ -1,0 +1,21 @@
+.btn-red{
+  background-color: #e50914;
+  color: white;
+  line-height: normal;
+  padding: 7.5px 17px;
+  font-weight: 200;
+  font-size: 1rem;
+  float: right;
+  border-radius: 3px;
+}
+
+.big-btn-red{
+  background-color: #e50914;
+  color: white;
+  line-height: normal;
+  font-weight: 300;
+  font-size: 24px;
+  border-radius: 2px;
+  padding: 14.5px 34px;
+
+}
